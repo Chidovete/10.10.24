@@ -1,0 +1,7 @@
+C:\Users\chidovete\source\repos\10.10.24\10.10.24\bin\Debug\10.10.24.exe.config
+C:\Users\chidovete\source\repos\10.10.24\10.10.24\bin\Debug\10.10.24.exe
+C:\Users\chidovete\source\repos\10.10.24\10.10.24\bin\Debug\10.10.24.pdb
+C:\Users\chidovete\source\repos\10.10.24\10.10.24\obj\Debug\10.10.24.csproj.AssemblyReference.cache
+C:\Users\chidovete\source\repos\10.10.24\10.10.24\obj\Debug\10.10.24.csproj.CoreCompileInputs.cache
+C:\Users\chidovete\source\repos\10.10.24\10.10.24\obj\Debug\10.10.24.exe
+C:\Users\chidovete\source\repos\10.10.24\10.10.24\obj\Debug\10.10.24.pdb
